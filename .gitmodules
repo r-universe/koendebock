@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CSMES"]
+	path = CSMES
+	url = https://github.com/cran/CSMES
+	shallow = true
+	registered = true
+[submodule "CustomerScoringMetrics"]
+	path = CustomerScoringMetrics
+	url = https://github.com/cran/CustomerScoringMetrics
+	shallow = true
+	registered = true
+[submodule "GAMens"]
+	path = GAMens
+	url = https://github.com/cran/GAMens
+	shallow = true
+	registered = true
